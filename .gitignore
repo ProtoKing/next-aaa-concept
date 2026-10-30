@@ -1,0 +1,17 @@
+# Data and generated outputs (large; never commit)
+data/
+outputs/
+outputs_demo/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+*.egg-info/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Secrets (Azure OpenAI keys for Part B go in .env)
+.env
