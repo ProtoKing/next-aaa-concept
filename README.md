@@ -1,8 +1,6 @@
 # Give Me The Next AAA Title: Part A (Deliverable #1)
 
-Code for the first half of Deliverable #1: answering the exploratory questions and **defining what a "hit" is**. Part B (the model that proposes the next AAA title) builds on the hit labels this produces.
-
-There are two versions. **Use v2 for the deck**; v1 is kept for comparison.
+There are two versions. **Use v2 `02_part_a_v2_money_and_hits` and `03_part_b_next_aaa_title`**; v1 is kept for comparison which uses only the initial data. 
 
 | | v1 | v2 (current) |
 |---|---|---|
